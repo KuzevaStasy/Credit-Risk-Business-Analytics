@@ -111,9 +111,7 @@ credit-risk-portfolio-analytics/
 
 ### 1. Clone Repository & Setup Virtual Environment
 ```bash
-git clone [https://github.com/your-username/credit-risk-portfolio-analytics.git](https://github.com/your-username/credit-risk-portfolio-analytics.git)
-cd credit-risk-portfolio-analytics
-
+git clone https://github.com/your-username/credit-risk-portfolio-analytics.git
 # Create and activate virtual environment
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
