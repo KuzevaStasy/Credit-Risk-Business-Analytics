@@ -63,6 +63,26 @@ credit-risk-portfolio-analytics/
    - Portfolio steering framework balancing **Growth vs. Risk vs. Profitability**.
 
 ---
+## 🖼️ Portfolio Visual Insights
+
+<p align="center">
+  <img src="assets/ewi_dashboard.png" width="85%" alt="Early Warning Dashboard" />
+  <br>
+  <em>Figure 1: 4-Pillar Early Warning Indicator (EWI) Risk Dashboard vs. Portfolio Baseline (8.06%)</em>
+</p>
+
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img src="assets/credit_exposure.png" alt="Credit Exposure Distribution" />
+      <br><strong>Figure 2:</strong> Credit Exposure & Demographics
+    </td>
+    <td width="50%" align="center">
+      <img src="assets/risk_vs_exposure.png" alt="Exposure vs Risk Deciles" />
+      <br><strong>Figure 3:</strong> Exposure Concentration vs. Default Rate
+    </td>
+  </tr>
+</table>
 
 ## 📈 Baseline Portfolio Snapshot
 
