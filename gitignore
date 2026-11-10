@@ -1,0 +1,20 @@
+# Dataset (too large for the repo; see archive/README.md)
+archive/feature_matrix.csv
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Editors and OS files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
